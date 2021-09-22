@@ -1,0 +1,16 @@
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\CSharpIntermediate.exe
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\CSharpIntermediate.deps.json
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\CSharpIntermediate.runtimeconfig.json
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\CSharpIntermediate.runtimeconfig.dev.json
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\CSharpIntermediate.dll
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\ref\CSharpIntermediate.dll
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\net5.0\CSharpIntermediate.pdb
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.csproj.AssemblyReference.cache
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.AssemblyInfoInputs.cache
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.AssemblyInfo.cs
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.dll
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\ref\CSharpIntermediate.dll
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.pdb
+C:\Users\artmu\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\net5.0\CSharpIntermediate.genruntimeconfig.cache
